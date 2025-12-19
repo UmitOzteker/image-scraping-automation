@@ -1,0 +1,37 @@
+# Python derleme dosyaları
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ortam dosyaları
+.env
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# IDE dosyaları
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Kişisel notlar veya loglar
+*.log
+
+# İndirilen veri setleri ve çıktı klasörleri
+# (Kendi veri klasörünü ekle)
+C:/Users/umitc/OneDrive/Masaüstü/Veriseti/
+
+# Selenium driver dosyaları (eğer klasörde ise)
+chromedriver.exe
+
+# Geçici dosyalar
+*.tmp
